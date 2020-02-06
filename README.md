@@ -1,5 +1,5 @@
 # GG Reader
-=========================================
+===================
 
 A simple reader for that GameGuardian Application
 to read fiction
@@ -8,7 +8,7 @@ to read fiction
 
 |Author|Sam|
 |---|---
-|Website|santool.ml
+|Website|[https://samtool.ml](samtool.ml)
 
 ****
 ## Index
@@ -36,13 +36,13 @@ to read fiction
 
 # Features
 ****
-- [ x ] Add fiction
-- [ x ] Read fiction format
-- [ x ] Record last chapter of reading
-- [ x ] Show fiction information
-- [ x ] Delete fiction
-- [   ] Plugin function support for multi-format
-- [   ] Auto detect format
+- [x] Add fiction
+- [x] Read fiction format
+- [x] Record last chapter of reading
+- [x] Show fiction information
+- [x] Delete fiction
+- [ ] Plugin function support for multi-format
+- [ ] Auto detect format
 
 # Get Started
 -------------------------------
