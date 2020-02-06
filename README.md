@@ -14,7 +14,7 @@ to read fiction
 ## Index
 * [Update](#Update)
 * [Features](#Features)
-* [Get Started](#Getting Started)
+* [Getting Started](#Get Started)
 * [Documentation](#Documentation)
 
 ***
