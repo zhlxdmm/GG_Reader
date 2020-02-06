@@ -14,7 +14,7 @@ to read fiction
 ## Index
 * [Update](#Update)
 * [Features](#Features)
-* [Getting Started](#Get Started)
+* [Tutorial](#Tutorial)
 * [Documentation](#Documentation)
 
 ***
@@ -44,7 +44,7 @@ to read fiction
 - [ ] Plugin function support for multi-format
 - [ ] Auto detect format
 
-# Get Started
+# Tutorial
 -------------------------------
 
 1. clone this project 
