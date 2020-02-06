@@ -8,7 +8,7 @@ to read fiction
 
 |Author|Sam|
 |---|---
-|Website|[https://samtool.ml](samtool.ml)
+|Website|[samtool.ml](https://samtool.ml)
 
 ****
 ## Index
